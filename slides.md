@@ -5,7 +5,7 @@ theme: seriph
 # like them? see https://unsplash.com/collections/94734566/slidev
 background: https://cover.sli.dev
 # some information about your slides (markdown enabled)
-title: Akamai to Cloudfare Migration
+title: Sibendu
 info: |
   ## Slidev Starter Template
   Akamai to Cloudfare Journey.
@@ -25,9 +25,9 @@ mdc: true
 #  ogImage: https://cover.sli.dev
 ---
 
-# Sibendu
+# Sibendu Das
 
-Sibendu Das
+Enterprise Architect, Solution Architect
 
 <div @click="$slidev.nav.next" class="mt-12 py-1" hover:bg="white op-10">
   <carbon:arrow-right />
